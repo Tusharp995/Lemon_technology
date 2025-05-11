@@ -1,0 +1,90 @@
+﻿@model Product
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> UserManager
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    ViewData["Title"] = "Product Details";
+    bool isAdmin = User.IsInRole("Admin");
+    bool isSeller = User.IsInRole("Seller");
+}
+
+<div class="container mt-5">
+    <div class="card shadow">
+        <div class="card-header bg-info text-white text-center">
+            <h4>@Model.Name</h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    @if (Model.Images != null && Model.Images.Any())
+                    {
+                        <img src="@Model.Images.First().ImageUrl" class="img-fluid rounded mb-3" />
+                    }
+                    else
+                    {
+                        <div class="text-muted">No image available</div>
+                    }
+                </div>
+                <div class="col-md-6">
+                    <p><strong>Description:</strong> @Model.Description</p>
+                    <p><strong>Category:</strong> @Model.Category</p>
+                    <p><strong>Price:</strong> ₹@Model.Price</p>
+                    <p><strong>Stock Quantity:</strong> @Model.StockQuantity</p>
+                    <a asp-action="Index" class="btn btn-secondary mt-3">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr />
+    
+    <div class="mt-4">
+        <h5>Reviews</h5>
+        
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <div class="card mt-4">
+                <div class="card-header bg-light">
+                    <h6>Add a Review</h6>
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Review" asp-action="Create" method="post">
+                        <input type="hidden" name="productId" value="@Model.Id" />
+
+                        <div class="form-group">
+                            <label>Rating</label>
+                            <select class="form-control" name="rating" required>
+                                <option value="">Select Rating</option>
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    <option value="@i">@i Star@(i > 1 ? "s" : "")</option>
+                                }
+                            </select>
+                        </div>
+
+                        <div class="form-group mt-3">
+                            <label>Comment</label>
+                            <textarea class="form-control" name="comment" rows="3" required></textarea>
+                        </div>
+
+                        <button type="submit" class="btn btn-success mt-3">Submit Review</button>
+                    </form>
+                </div>
+            </div>
+        }
+        else
+        {
+            <p class="text-muted mt-4">Please <a asp-area="" asp-controller="Account" asp-action="Login">log in</a> to write a review.</p>
+        }
+        @if (Model.Reviews != null && Model.Reviews.Any())
+        {
+            foreach (var review in Model.Reviews)
+            {
+        <p><strong>User:</strong> @review.User?.UserName </p>
+                <p><strong>Rating: @review.Rating</strong> ★★★★☆</p>
+                <p><strong>Comment:@review.Comment</strong> ...</p>
+            }
+        }
+        
+    </div>
+</div>
