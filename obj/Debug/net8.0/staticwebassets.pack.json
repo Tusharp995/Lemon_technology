@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce Web Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Commerce Web Application.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\07b90578-c61c-4e3f-a4f2-7dd3dd0286fc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\07b90578-c61c-4e3f-a4f2-7dd3dd0286fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\1a750024-8730-48f9-a787-413f3362706c.webp",
+      "PackagePath": "staticwebassets\\uploads\\1a750024-8730-48f9-a787-413f3362706c.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\299ee67d-3992-4071-a04a-d7c5c793a5e4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\299ee67d-3992-4071-a04a-d7c5c793a5e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\2a29ca7a-a72f-4030-a6ff-d831900f8c6f.webp",
+      "PackagePath": "staticwebassets\\uploads\\2a29ca7a-a72f-4030-a6ff-d831900f8c6f.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\62b37d95-f044-44d4-9acb-2eb8d1e4f107.jpg",
+      "PackagePath": "staticwebassets\\uploads\\62b37d95-f044-44d4-9acb-2eb8d1e4f107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\68f3334b-1ead-439f-af76-01cbcaf65f23.jpg",
+      "PackagePath": "staticwebassets\\uploads\\68f3334b-1ead-439f-af76-01cbcaf65f23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\90952560-1963-419e-935b-1d2a0d7361df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\90952560-1963-419e-935b-1d2a0d7361df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\9bce3c74-0654-4abe-8a08-338f0625b931.webp",
+      "PackagePath": "staticwebassets\\uploads\\9bce3c74-0654-4abe-8a08-338f0625b931.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\d5f679a6-479d-4929-9f7b-0a04826aa0a2.png",
+      "PackagePath": "staticwebassets\\uploads\\d5f679a6-479d-4929-9f7b-0a04826aa0a2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Self Learning\\Lemon_Technology_Task\\E-Commerce Web Application\\wwwroot\\uploads\\f39d611a-076f-4663-a8bd-dba1a9f54a5f.webp",
+      "PackagePath": "staticwebassets\\uploads\\f39d611a-076f-4663-a8bd-dba1a9f54a5f.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce Web Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce Web Application.props",
+      "PackagePath": "build\\E-Commerce Web Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce Web Application.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce Web Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce Web Application.props",
+      "PackagePath": "buildTransitive\\E-Commerce Web Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
